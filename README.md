@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @psiluvu32, a Sensor Systems Technologist and an Engineer
 - 👀 I’m interested in intellegent robots
 - 🌱 I’m currently learning GO by Google
-- 💞️ I’m looking to collaborate on IOT systems, Robotics and Satellite technologies
+- 💞️ I’m looking to collaborate on IOT systems, Robotics Aerial and Mobile for Agriculture
 - 📫 Reach me at psiluvu32@protonmail.com
 
 <!---
